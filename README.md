@@ -19,6 +19,7 @@ My focus is not generic dashboards or autonomous agents. I am interested in syst
 | Project | What it demonstrates |
 |---|---|
 | [OpsPilot AI](https://github.com/bastiendfd/opspilot-ai) | Evidence-first industrial performance MVP: Excel ingestion, deterministic quality gates, variance analysis, source lineage, Streamlit UI and automated tests. |
+| [Maintenance Work Order API](https://github.com/bastiendfd/maintenance-work-order-api) | Flask and SQLite REST API for fictional industrial work orders: controlled status transitions, local storage and automated tests. |
 | [KPI Report Generator](https://github.com/bastiendfd/kpi-report-generator) | Reporting automation and business-performance communication. |
 | [ETL Pipeline Automation](https://github.com/bastiendfd/etl-pipeline-automation) | Data movement and repeatable transformation workflows. |
 | [Predictive Maintenance ML](https://github.com/bastiendfd/predictive-maintenance-ml) | Foundation for an industrial ML portfolio project. |
