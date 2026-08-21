@@ -22,7 +22,7 @@ My focus is not generic dashboards or autonomous agents. I am interested in syst
 | [Maintenance Work Order API](https://github.com/bastiendfd/maintenance-work-order-api) | Flask and SQLite REST API for fictional industrial work orders: controlled status transitions, local storage and automated tests. |
 | [KPI Report Generator](https://github.com/bastiendfd/kpi-report-generator) | Reporting automation and business-performance communication. |
 | [ETL Pipeline Automation](https://github.com/bastiendfd/etl-pipeline-automation) | Data movement and repeatable transformation workflows. |
-| [Predictive Maintenance ML](https://github.com/bastiendfd/predictive-maintenance-ml) | Foundation for an industrial ML portfolio project. |
+| [Turbofan Health ML](https://github.com/bastiendfd/turbofan-health-ml) | Synthetic-first Remaining Useful Life baseline: C-MAPSS-compatible parsing, engine-level holdout evaluation and reproducible scikit-learn experiment. |
 | [Cost Tracker CLI](https://github.com/bastiendfd/cost-tracker-cli) | Python and SQLite applied to cost tracking. |
 
 ## Portfolio direction
