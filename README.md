@@ -19,21 +19,22 @@ My focus is not generic dashboards or autonomous agents. I am interested in syst
 | Project | What it demonstrates |
 |---|---|
 | [OpsPilot AI](https://github.com/bastiendfd/opspilot-ai) | Evidence-first industrial performance MVP: Excel ingestion, deterministic quality gates, variance analysis, source lineage, Streamlit UI and automated tests. |
-| [Maintenance Work Order API](https://github.com/bastiendfd/maintenance-work-order-api) | Flask and SQLite REST API for fictional industrial work orders: controlled status transitions, local storage and automated tests. |
-| [KPI Report Generator](https://github.com/bastiendfd/kpi-report-generator) | Reporting automation and business-performance communication. |
-| [ETL Pipeline Automation](https://github.com/bastiendfd/etl-pipeline-automation) | Data movement and repeatable transformation workflows. |
-| [Turbofan Health ML](https://github.com/bastiendfd/turbofan-health-ml) | Synthetic-first Remaining Useful Life baseline: C-MAPSS-compatible parsing, engine-level holdout evaluation and reproducible scikit-learn experiment. |
-| [Cost Tracker CLI](https://github.com/bastiendfd/cost-tracker-cli) | Python and SQLite applied to cost tracking. |
+| [KPI Report Generator](https://github.com/bastiendfd/kpi-report-generator) | Validated CSV-to-Markdown KPI reporting with deterministic financial calculations and safe CLI error handling. |
+| [ETL Pipeline Automation](https://github.com/bastiendfd/etl-pipeline-automation) | Deterministic synthetic CSV ETL with validation, rejected-record reporting, audit summaries and protected output paths. |
+| [Maintenance Work Order API](https://github.com/bastiendfd/maintenance-work-order-api) | Local Flask and SQLite API for fictional industrial work orders, controlled status transitions and automated tests. |
+| [Turbofan Health ML](https://github.com/bastiendfd/turbofan-health-ml) | Synthetic-first Remaining Useful Life baseline with engine-level holdout evaluation and a C-MAPSS-compatible parser. |
+| [Predictive Maintenance ML](https://github.com/bastiendfd/predictive-maintenance-ml) | Synthetic machine-condition anomaly-detection baseline with validated parameters and transparent alert evidence. |
+| [Logistic Challenge](https://github.com/bastiendfd/LogisticChallenge) | Fictional transportation optimisation model with capacity, demand and feasibility tests. |
+| [Sales Dashboard Flask](https://github.com/bastiendfd/sales-dashboard-flask) | Local-only Flask dashboard using embedded synthetic sales data and a tested health endpoint. |
 
 ## Portfolio direction
 
-I am building a small set of complete, well-documented projects rather than inflating activity with artificial commits:
+I build a small set of complete, well-documented projects rather than inflating activity with artificial commits. The public projects are deliberately scoped as learning or portfolio work, with explicit limitations and synthetic/public data boundaries.
 
-1. **OpsPilot AI** — industrial performance investigation with traceable evidence.
-2. **Maintenance Work Order API** — Flask/SQLite API for industrial task and work-order flows.
-3. **Turbofan Health ML** — predictive-maintenance experiment using public NASA-style data.
-4. **Technical Document Review Lab** — safe LLM/RAG experimentation using fictional or public documents only.
-5. **Supply-Chain Scenario Planner** — constraint-based inventory and lead-time trade-off analysis.
+1. **Industrial performance and data quality** — OpsPilot AI, KPI reporting and ETL validation.
+2. **Operations workflows** — work-order, cost-tracking and logistics optimisation exercises.
+3. **Responsible industrial ML** — synthetic-first RUL and anomaly-detection experiments.
+4. **Safe local tools** — explicit data boundaries, tests, source control and CI before public presentation.
 
 ## Principles
 
