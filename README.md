@@ -21,9 +21,11 @@ My focus is not generic dashboards or autonomous agents. I am interested in syst
 | [OpsPilot AI](https://github.com/bastiendfd/opspilot-ai) | Evidence-first industrial performance MVP: Excel ingestion, deterministic quality gates, variance analysis, source lineage, Streamlit UI and automated tests. |
 | [KPI Report Generator](https://github.com/bastiendfd/kpi-report-generator) | Validated CSV-to-Markdown KPI reporting with deterministic financial calculations and safe CLI error handling. |
 | [ETL Pipeline Automation](https://github.com/bastiendfd/etl-pipeline-automation) | Deterministic synthetic CSV ETL with validation, rejected-record reporting, audit summaries and protected output paths. |
+| [Margin Analytics Lab](https://github.com/bastiendfd/margin-analytics-lab) | Synthetic-only category margin reporting with deterministic validation, ranked Markdown output and explicit accounting limitations. |
 | [Maintenance Work Order API](https://github.com/bastiendfd/maintenance-work-order-api) | Local Flask and SQLite API for fictional industrial work orders, controlled status transitions and automated tests. |
 | [Turbofan Health ML](https://github.com/bastiendfd/turbofan-health-ml) | Synthetic-first Remaining Useful Life baseline with engine-level holdout evaluation and a C-MAPSS-compatible parser. |
 | [Predictive Maintenance ML](https://github.com/bastiendfd/predictive-maintenance-ml) | Synthetic machine-condition anomaly-detection baseline with validated parameters and transparent alert evidence. |
+| [Social Media Mental Health NLP Study](https://github.com/bastiendfd/social-media-mental-health-nlp-study) | Synthetic-only text-classification research prototype with explicit non-clinical and non-diagnostic limits. |
 | [Logistic Challenge](https://github.com/bastiendfd/LogisticChallenge) | Fictional transportation optimisation model with capacity, demand and feasibility tests. |
 | [Sales Dashboard Flask](https://github.com/bastiendfd/sales-dashboard-flask) | Local-only Flask dashboard using embedded synthetic sales data and a tested health endpoint. |
 
