@@ -1,17 +1,19 @@
 # Bastien Deffradas
 
-**Business Analyst in Hamburg · Process and operations improvement · Data as a tool**
+**Business Analyst · Process & Digital Transformation · Hamburg, Germany**
 
-I help operations and finance teams see where a process loses time or money, fix it, and show the gain with numbers. I work with Python, SQL, Excel, Power BI and SAP data.
+[LinkedIn](https://www.linkedin.com/in/bastiendfd/)
 
-## What I work on
+I am a Business Analyst in Hamburg, working on process and digital transformation. I moved from FMCG sales to data analysis. I like to understand what colleagues need, then automate their slow, repetitive tasks and give them clear reports.
 
-- **Process improvement and automation** in industrial operations
-- **Budget vs. actual analysis** and KPI reporting for controlling teams
-- **Data pipelines** that check their input and can be re-run by someone else
-- **Practical AI use cases**: choosing what is worth building, and measuring the value after go-live
+## What I do at work
 
-Sectors I care about most: **aerospace, defence and maritime logistics**.
+- Automate repetitive tasks with Python, VBA, Power Automate and Power Apps
+- Build Power BI reports and forecasts for management
+- Map processes and improve them with the teams who run them (DMAIC)
+- Help colleagues adopt new tools, including AI assistants, with guides and workshops
+
+The code and data from my job stay private. The projects below are my own, built on fictional or public data.
 
 ## Featured work
 
@@ -34,6 +36,22 @@ All featured projects use **fictional or public data only** and run locally. The
 - [Logistic Challenge](https://github.com/bastiendfd/LogisticChallenge): a small transport optimisation model (linear programming with PuLP).
 - University and early learning exercises (algorithms, small tools, robotics) are archived but stay public as a record of how I learned.
 
+## Skills
+
+| Area | Tools and methods |
+|---|---|
+| Data & BI | Power BI (DAX, Power Query, Service), SQL Server, SAP HANA, Talend, Excel (VBA), SAP (SD, MM, QM) |
+| Automation & AI | Power Automate, Power Apps, Python (pandas, scikit-learn, XGBoost, Flask), Microsoft Copilot, ChatGPT, prompt design |
+| Business analysis | Requirements gathering, process and data-flow mapping (draw.io, XMind), DMAIC, KPIs, AI use cases, user guides and training |
+| Engineering habits | Git, GitHub Actions, pytest, SQLite, Streamlit |
+
+## Education
+
+- **MSc Business Intelligence & Analytics** (Data Analytics), ESC Clermont Business School, 2023 – 2024
+- **Exchange semester, MSc Business Informatics** (Data Science), Aalen University of Applied Sciences, 2024 – 2025
+- **Master in Management** (International Business), ESC Clermont Business School, 2022 – 2024
+- **Lean Six Sigma White Belt**, 2026
+
 ## Principles
 
 - No employer, customer or personal data in public repositories.
@@ -41,10 +59,6 @@ All featured projects use **fictional or public data only** and run locally. The
 - Tests and clear limits matter as much as features.
 - Simple methods first; AI only where it clearly helps, and a person makes the decision.
 
-## Tools
-
-`Python` · `SQL` · `pandas` · `Excel` · `Power BI` · `SAP` · `SQLite` · `Flask` · `Streamlit` · `Git` · `GitHub Actions` · `Docker`
-
 ---
 
-Based in Hamburg, Germany. Open to process, operations and transformation roles.
+Languages: French (native) · English (C1) · German (B1, course ongoing) · Spanish (B1)
